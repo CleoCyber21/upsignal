@@ -7,7 +7,7 @@ green='\033[32;1m'
 yellow='\033[33;1m'
 sleep 1
 echo
-toilet -f big -F gay By Kak tutorial
+toilet -f big -F gay By CLEO TOOLS
 echo "'\033[33;1m'SELAMAT DATANG DI TOOLS CLEO CYBER"
 echo ""
 echo ""
