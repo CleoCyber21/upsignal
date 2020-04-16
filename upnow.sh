@@ -8,14 +8,14 @@ yellow='\033[33;1m'
 sleep 1
 echo
 toilet -f big -F gay By Kak tutorial
-echo "'\033[33;1m'SELAMAT DATANG DI TOOLS KAK TUTORIAL"
+echo "'\033[33;1m'SELAMAT DATANG DI TOOLS CLEO CYBER"
 echo ""
 echo ""
 sleep 1
-echo "'\033[32;1m'JANGAN LUPA SUBSCRIBE CHANNEL KAK TUTORIAL"
+echo "'\033[32;1m'JANGAN LUPA SUBSCRIBE channel CLEO CYBER"
 echo ""
 sleep 1
-echo "'\033[34;1m'INI TOOLS CEPATKAN JARINGAN"
+echo "'\033[34;1m'TOOLS INI UNTUK MEMPERCEPAT  DAN MENYETABILKAN JARINGAN"
 sleep 2
 clear
 
